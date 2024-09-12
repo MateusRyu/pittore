@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "images/YouTube/Epifania/Toda a História da Filosofia - Parte 1.png"
+                "file": "images/YouTube/Epifania/Toda a História da Filosofia - Parte 1/Quem_e_esse_filosofo.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/YouTube/Epifania/Toda a História da Filosofia - Parte 1.png",
+                "file": "images/YouTube/Epifania/Toda a História da Filosofia - Parte 1/Quem_e_esse_filosofo.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/YouTube/Epifania/Toda a História da Filosofia - Parte 1.png",
+                "file": "images/YouTube/Epifania/Toda a História da Filosofia - Parte 1/Quem_e_esse_filosofo.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/YouTube/Epifania/Toda a História da Filosofia - Parte 1.png"
+                "file": "images/YouTube/Epifania/Toda a História da Filosofia - Parte 1/Quem_e_esse_filosofo.png"
               }
             }
           }
@@ -145,10 +145,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "652da112938df4e5",
+  "active": "345f58fee4ca7222",
   "lastOpenFiles": [
+    "images/YouTube/Epifania/Toda a História da Filosofia - Parte 1",
     "README.md",
-    "images/YouTube/Epifania/Toda a História da Filosofia - Parte 1.png",
+    "images/YouTube/Epifania/Toda a História da Filosofia - Parte 1/Quem_e_esse_filosofo.png",
     "images/YouTube/Epifania/Toda a História da Filosofia - Parte 1.png.crdownload",
     "images/YouTube/Epifania",
     "images/YouTube/YouTube",
